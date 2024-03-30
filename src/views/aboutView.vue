@@ -21,7 +21,7 @@
       
       <!-- Image -->
       <div class="w-full lg:w-1/2 my-12 px-4 flex justify-center items-center">
-        <img src="./assets/Image3.jpg" alt="Michael Tampus" class="rounded-full w-72 h-72 object-cover">
+        <img src="../assets/Image3.jpg" alt="Michael Tampus" class="rounded-full w-72 h-72 object-cover">
       </div>
     </section>
     
